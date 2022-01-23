@@ -1,1 +1,4 @@
-# Skillsjournal
+
+skillsjournal
+
+My skills journal
